@@ -4,7 +4,7 @@
 
 **Paste a job description, drop in a pile of resumes, and get a ranked shortlist in seconds.**
 
-[![CI](https://github.com/<your-username>/smart-resume-screener/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/smart-resume-screener/actions/workflows/ci.yml)
+[![CI](https://github.com/nikhil-2301-dot/smart-resume-screener/actions/workflows/ci.yml/badge.svg)](https://github.com/nikhil-2301-dot/smart-resume-screener/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-FF4B4B)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -90,7 +90,7 @@ smart-resume-screener/
 ## Run it locally
 
 ```bash
-git clone https://github.com/<your-username>/smart-resume-screener.git
+git clone https://github.com/nikhil-2301-dot/smart-resume-screener.git
 cd smart-resume-screener
 
 python -m venv .venv
