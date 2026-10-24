@@ -1,0 +1,12 @@
+Python Backend Developer
+
+We are looking for a Python backend developer with 3+ years of experience
+building web services. You will design REST APIs using Django or Flask,
+work with PostgreSQL, and deploy services with Docker on AWS.
+
+Requirements:
+- Strong Python and SQL skills
+- Experience with Django, REST API design and PostgreSQL
+- Familiarity with Docker, Git and CI/CD
+- Good communication and problem solving skills
+- Nice to have: Redis, Kubernetes
