@@ -9,7 +9,7 @@
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-FF4B4B)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-[**Live demo**](https://<your-app-name>.streamlit.app) · [Report a bug](../../issues) · [Request a feature](../../issues)
+[**Live demo**](https://smart-resume-screener-vrd2jrwut7pqsybvhgwsnc.streamlit.app/) · [Report a bug](../../issues) · [Request a feature](../../issues)
 
 </div>
 
